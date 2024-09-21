@@ -1,0 +1,5 @@
+﻿Business Name,Sender Address,Sender Domain,ABN,Invoice File Search Text,Invoice PDF Search Text,Business Unit,Score
+test,test@test.com,test.com,,Invoice_No_,INVOICE NO. ,Building,100
+test,test@test.com,test.com,,inv,,City ICT and Data,50
+test,test@test.com,test.com,,Invoice_,Invoice #,City ICT and Data,50
+test,test@test.com,test.com,,INV,Number: ,,
